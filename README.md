@@ -1,7 +1,7 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 style="color: #5e9ca0;">Hi There!</h1>
 <p>Hi There!</p>
-<p>I am Realhardik18. I am Interseted in The Following Topics:</p>
+<p>I am Realhardik18(Hardik Singh). I am Interseted in The Following Topics:</p>
 <ul>
 <li>discord.py</li>
 <li>python</li>
