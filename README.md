@@ -10,4 +10,3 @@
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=realhardik18&theme=tokyonight" alt="realhardik18" /></p>
 
-<a href="https://www.buymeacoffee.com/realhardik18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realhardik18" /></a>
